@@ -16,7 +16,7 @@ This plugin will only work on devices whose manufacturers have implemented the A
 
 # Installation
 ### Cordova
-`cordova plugin add cordova-plugin-android-fingerprint-auth`
+`cordova plugin add https://github.com/Skaaala/cordova-plugin-android-fingerprint-auth.git`
 
 ### Ionic
 `ionic cordova plugin add cordova-plugin-android-fingerprint-auth`
