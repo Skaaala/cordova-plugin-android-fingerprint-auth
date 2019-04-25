@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml version="1.0" encoding="utf-8"?>
 <!--
   ~ Copyright (C) 2015 The Android Open Source Project
   ~
@@ -25,6 +24,6 @@
     <string name="fingerprint_not_recognized">Odtlačok prsta nebol rozpoznaný. Skús to znova.</string>
     <string name="fingerprint_success">Odtlačok prsta rozpoznaný</string>
     <string name="new_fingerprint_enrolled_description">Do tohto zariadenia bol pridaný nový odtlačok prsta, takže je vyžadované heslo.</string>
-    <string name="secure_lock_screen_required">Požadovaná obrazovka zabezpečeného zámku!</string>
+    <string name="secure_lock_screen_required">Vyžaduje sa obrazovka zabezpečeného zámku!</string>
     <string name="fingerprint_too_many_attempts">Príliš veľa pokusov. Skúste to neskôr znova.</string>
 </resources>
