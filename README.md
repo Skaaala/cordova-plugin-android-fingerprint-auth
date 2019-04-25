@@ -19,10 +19,8 @@ This plugin will only work on devices whose manufacturers have implemented the A
 `cordova plugin add https://github.com/Skaaala/cordova-plugin-android-fingerprint-auth.git`
 
 ### Ionic
-`ionic cordova plugin add cordova-plugin-android-fingerprint-auth`
+`ionic cordova plugin add https://github.com/Skaaala/cordova-plugin-android-fingerprint-auth.git`
 
-### Meteor
-`meteor add cordova:cordova-plugin-android-fingerprint-auth@1.2.7 (or present version)`
 
 # How to use
 - Call `isAvailable()` to check the fingerprint status.
